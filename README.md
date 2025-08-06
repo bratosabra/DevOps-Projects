@@ -1,6 +1,6 @@
 # DevOps Projects
 
-Project ideas to take you from beginner to advanced in DevOps
+Project ideas from beginner to advanced in DevOps
 
 ## [Log-Archive-Tool](https://roadmap.sh/projects/log-archive-tool)
 Build a tool to archive logs from the CLI with the date and time.

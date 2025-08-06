@@ -35,4 +35,4 @@ tar --exclude="$ARCHIVE_DIR" -czf "$ARCHIVE_PATH" -C "$LOG_DIR" .
 LOG_FILE="$ARCHIVE_DIR/archive_log.txt"
 echo "[$TIMESTAMP] Archived $LOG_DIR to $ARCHIVE_PATH" >> "$LOG_FILE"
 
-echo "✅ Logs archived successfully to: $ARCHIVE_PATH"
+echo "Logs archived successfully to: $ARCHIVE_PATH"

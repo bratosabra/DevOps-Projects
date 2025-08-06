@@ -5,16 +5,16 @@ Useful for quickly assessing the health and load of a system without installing 
 
 ---
 
-## 🚀 Features
+## Features
 
-- ✅ 100% Bash — no dependencies or Python required
-- 🧠 Displays memory usage
-- ⚙️ Shows total CPU usage
-- 💽 Reports disk usage of the root partition
-- 🔍 Lists top 5 processes by:
+- 100% Bash — no dependencies or Python required
+- Displays memory usage
+- Shows total CPU usage
+- Reports disk usage of the root partition
+- Lists top 5 processes by:
   - CPU usage
   - Memory usage
-- 🛡️ (Optional) Includes additional stats:
+- Includes additional stats:
   - OS version
   - Uptime
   - Load average
@@ -23,7 +23,7 @@ Useful for quickly assessing the health and load of a system without installing 
 
 ---
 
-## 🧰 Requirements
+## Requirements
 
 - Linux or Unix-based system
 - Bash shell (`bash`)
@@ -31,7 +31,7 @@ Useful for quickly assessing the health and load of a system without installing 
 
 ---
 
-## 📦 Installation
+## Installation
 
 1. Download the script:
 
